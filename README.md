@@ -1,6 +1,6 @@
 ## REACT PORTFOLIO
 
-##A one page app where you can view my portfolio
+## A one page app where you can view my portfolio
 
 
 AS AN employer looking for candidates with experience building single-page applications
